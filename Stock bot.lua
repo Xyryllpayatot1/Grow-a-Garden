@@ -121,7 +121,7 @@ local function WebhookSend(Type: string, Fields: table)
 				color = Color,
 				fields = Fields,
 				footer = {
-					text = "Created by depso" -- Please keep
+					text = "Created by XyryllPanget" -- Please keep
 				},
 				timestamp = TimeStamp
 			}
